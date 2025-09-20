@@ -1,0 +1,23 @@
+PROJECT 
+The theme I choose for the project is call Wedding Photography.
+
+I stated building my code by first doing the html pages (Home).
+In the HTML page, I created five different kinds of pages.
+1.	 Home 
+The home page is all about what the wedding Photography will look like. There are images and logo for you to have an idea of how the page is going to look like.
+
+2.	Contact
+The contact page is to give you the information about how every individual can reach out to us.
+
+3.	Gallery
+The gallery is to showcase some of the picture we have from most of the work done by us. 
+
+4.	Service
+It talks about the services we give to all our customers and how we do those services without any complains.
+
+5.	About
+That is if anyone needs more information.
+
+
+
+
